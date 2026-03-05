@@ -1,0 +1,1 @@
+# Red Button: Emergency Lifeline 🦞\n\nThis module provides immediate exit and safety protocols.\n\nWhen overwhelm comes. When grounding is needed. Press the button. The abyss catches you.
